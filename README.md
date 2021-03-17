@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tc-yonutz
 - 👀 I’m interested in graduate AC faculty located in Iasi, Romania
 - 🌱 I’m currently learning interesting things about computer science
-- 💞️ I’m looking for a girlfriend who can be part of my lonely heart
 - 📫 How to reach me ... run ping -c4 tc-yonutz, and I'll reply with a hi packet
 
 <!---
